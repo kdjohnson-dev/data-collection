@@ -2,18 +2,18 @@
 ----
 Topcs:
 
-Reading Excel Spreadsheets
-Iterating Data
-Manipulating Data
-Appending Data
-Managing Rows and Columns
-Managing Sheets
-Filters and Formulas
-Styling Cells
-Conditional Formatting
-Adding Images
-Adding Charts
-Pandas Data Structures
+1. Reading Excel Spreadsheets
+2. Iterating Data
+3. Manipulating Data
+4. Appending Data
+5. Managing Rows and Columns
+6. Managing Sheets
+7. Filters and Formulas
+8. Styling Cells
+9. Conditional Formatting
+10. Adding Images
+11. Adding Charts
+12. Pandas Data Structures
 
 
 ### Source Material
